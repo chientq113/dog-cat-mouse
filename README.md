@@ -17,7 +17,10 @@
 //git checkout -b branch (branching)
 //git checkout branch
 //git merge
+	//merge B --> A
+	//step 1: git checkout A (stay in branch A)
+	//step 2: git merge B 
+//git branch -D branch (delete branch)
 
-//merge B --> A
-//step 1: git checkout A (stay in branch A)
-//step 2: git merge B 
+//git reset --soft <to_commit>
+
