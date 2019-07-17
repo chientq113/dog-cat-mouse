@@ -27,3 +27,7 @@
 //git reset --hard (to commit id) comeback to commit last and remove file modify
 
 //git revert (commit id) revert a file from commit id. note: remove data modified
+
+//setup github 
+//git remote add origin (link repository github)
+
