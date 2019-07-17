@@ -30,4 +30,14 @@
 
 //setup github 
 //git remote add origin (link repository github)
+//git push
 
+//link can commit like github: bitbucket.org, gitlab.com
+
+//git config --global credential.helper store
+(save user and password not encode)
+(-/.git-credentials)
+
+//git config --global credential.helper "cache --timeout=18000" (save into ram in second)
+
+// google "gnome-keyring" "git ssh" (encode algorithm)
