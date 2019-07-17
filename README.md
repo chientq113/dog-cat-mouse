@@ -22,6 +22,8 @@
 	//step 2: git merge B 
 //git branch -D branch (delete branch)
 
-//git reset --soft <to_commit>
+//git reset --soft (to_commit id) comeback to commit last and keep file modify in staging
+//git reset --mixed (to_commit id) comeback to commit last and keep file modify in working area
+//git reset --hard (to commit id) comeback to commit last and remove file modify
 
-demo reset soft
+//git revert (commit id) revert a file from commit id. note: remove data modified
