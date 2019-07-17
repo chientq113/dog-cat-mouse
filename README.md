@@ -24,3 +24,4 @@
 
 //git reset --soft <to_commit>
 
+demo reset soft
