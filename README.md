@@ -11,11 +11,11 @@
 //staging area
 //git repository
 
-//git checkout -- file
-//git reset
+//git checkout -- (file name)
+//git reset (file name)
 
-//git checkout -b branch (branching)
-//git checkout branch
+//git checkout -b (branch name) (branching)
+//git checkout (branch name)
 //git merge
 	//merge B --> A
 	//step 1: git checkout A (stay in branch A)
@@ -50,4 +50,4 @@
 //2. git push origin (branch)
 //3. create a pull request on github
 //4. review code
-//5. merge to master
+//5. merge to master 
