@@ -41,3 +41,13 @@
 //git config --global credential.helper "cache --timeout=18000" (save into ram in second)
 
 // google "gnome-keyring" "git ssh" (encode algorithm)
+
+//git Clone (if dont have repository)
+//git pull (get commit from other)
+
+//pull request 
+//1. git checkout -b (feature_branch)
+//2. git push origin (branch)
+//3. create a pull request on github
+//4. review code
+//5. merge to master
